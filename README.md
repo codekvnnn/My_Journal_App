@@ -1,4 +1,4 @@
-# My Journal
+# My Journal App
 
 ## Description
 My Journal is a simple, console-based Python application designed for personal journaling. It allows users to write and view their journal entries. The current version serves as a basic prototype and can be further developed into a comprehensive journaling tool.
